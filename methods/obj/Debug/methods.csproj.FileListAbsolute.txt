@@ -1,0 +1,7 @@
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\obj\Debug\methods.csprojAssemblyReference.cache
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\bin\Debug\methods.exe.config
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\bin\Debug\methods.exe
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\bin\Debug\methods.pdb
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\obj\Debug\methods.exe
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\DAY2\prjsecondapplication\methods\obj\Debug\methods.pdb
