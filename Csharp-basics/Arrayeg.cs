@@ -14,6 +14,7 @@ namespace Csharp_basics
             flower[0] = "lilly";
             flower[1] = "rose";
             flower[2] = "lotus";
+            flower[3] = "jasmine";
             Console.WriteLine(flower[0]);
             for(int i=0; i<flower.Length; i++)
             {
